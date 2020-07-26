@@ -41,7 +41,7 @@ namespace CarDelegate
 
         public Car()
         {
-            MaxSpeed = 100;
+            MaxSpeed = 140;
         }
 
         public Car(string name, int maxSp, int currSp)
